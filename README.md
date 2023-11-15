@@ -90,3 +90,7 @@ spring:
     values
     (?,?,?,default)
   ```
+  - 로그아웃 시 로그
+  ```
+  2023-11-16T01:56:55.341+09:00  INFO 7761 --- [nio-8080-exec-8] c.c.oauth.demo.config.WebSecurityConfig  : User logout: UserName
+  ```
