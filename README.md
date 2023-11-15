@@ -46,7 +46,7 @@ spring:
             scope: profile,email
 
   datasource:
-    url: jdbc:h2:mem:mybatis-test
+    url: jdbc:h2:mem:test
     driverClassName: org.h2.Driver
     username: sa
     hikari:
