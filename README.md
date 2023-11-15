@@ -41,7 +41,7 @@ spring:
             clientId: ?
             clientSecret: ?
           google:
-            client-id: ?
+            clientId: ?
             clientSecret: ?
             scope: profile,email
 
