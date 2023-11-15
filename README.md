@@ -4,7 +4,7 @@
 GitHub 또는 Google로 로그인 한 뒤, DB에 OAuth2에서 가져온 유저 정보를 저장하는 간단한 예시입니다.  
 DB: h2를 사용하여 추가 설정없이 동작하도록 구성하였습니다.
 ## References
-- https://spring.io/guides/tutorials/spring-boot-oauth2/#github-register-application
+- https://spring.io/guides/tutorials/spring-boot-oauth2
 - https://yelimkim98.tistory.com/49
 - https://velog.io/@swchoi0329/스프링-시큐리티와-OAuth-2.0으로-로그인-기능-구현
 
